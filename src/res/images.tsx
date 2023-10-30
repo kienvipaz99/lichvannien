@@ -1,0 +1,45 @@
+/**
+  * @author AW
+  * @flow
+  */
+  
+  const images = {
+      1: require('../assets/images/1.png'),
+    2: require('../assets/images/2.png'),
+    3: require('../assets/images/3.png'),
+    4: require('../assets/images/4.png'),
+    aa: require('../assets/images/aa.png'),
+    bg: require('../assets/images/bg.png'),
+    bgday: require('../assets/images/bgday.png'),
+    calendar: require('../assets/images/calendar.png'),
+    calendarday: require('../assets/images/calendarday.png'),
+    checkbox: require('../assets/images/checkbox.png'),
+    horoscope: require('../assets/images/horoscope.png'),
+    huongnha: require('../assets/images/huongnha.jpeg'),
+    lich1: require('../assets/images/lich1.jpg'),
+    lich2: require('../assets/images/lich2.jpg'),
+    lich3: require('../assets/images/lich3.jpg'),
+    lich4: require('../assets/images/lich4.jpg'),
+    lich5: require('../assets/images/lich5.jpg'),
+    menu: require('../assets/images/menu.png'),
+    start: require('../assets/images/start.png'),
+    start1: require('../assets/images/start1.png'),
+    start2: require('../assets/images/start2.png'),
+    tuvi: require('../assets/images/tuvi.png'),
+    tuvi1: require('../assets/images/tuvi1.png'),
+    tuvi2: require('../assets/images/tuvi2.png'),
+    tuvi3: require('../assets/images/tuvi3.png'),
+    tuvi4: require('../assets/images/tuvi4.png'),
+    tuvi5: require('../assets/images/tuvi5.png'),
+    tuvi6: require('../assets/images/tuvi6.png'),
+    tuvithang: require('../assets/images/tuvithang.png'),
+    tuvitrondoi: require('../assets/images/tuvitrondoi.png'),
+    tuvu1: require('../assets/images/tuvu1.png'),
+    uncheck: require('../assets/images/uncheck.png'),
+    vantrinhnam: require('../assets/images/vantrinhnam.png'),
+    weather: require('../assets/images/weather.png'),
+    xemsaogiaihan: require('../assets/images/xemsaogiaihan.png'),
+    xemtuoixaynha: require('../assets/images/xemtuoixaynha.png'),
+    xongdat: require('../assets/images/xongdat.png'),
+  }
+  export default images
